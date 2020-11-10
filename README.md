@@ -1,1 +1,1 @@
-# test cmd php
+# test cmd php2
